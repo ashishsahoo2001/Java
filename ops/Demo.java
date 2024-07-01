@@ -12,7 +12,7 @@ name=n;
 
     public static void main(String[] args) {
         Demo r=new Demo(50,"ashish");
-        Demo f=new Demo(60, "jitu");
+        Demo f=new Demo(60, "lipu");
         r.show();
         f.show();
     }
