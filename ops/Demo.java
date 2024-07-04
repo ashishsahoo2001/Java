@@ -35,7 +35,7 @@ class A{
 
     void f1()
     {
-        x=11;
+        x=13;
         y=22;
     }
         void f2()
